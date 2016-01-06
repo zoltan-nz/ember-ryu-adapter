@@ -1,5 +1,7 @@
 # Ember-ryu-adapter
 
+Ryu is a popular SDN controller. It has a REST interface. This will be an addon adapter for Ember.js to connect Ryu.
+
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
